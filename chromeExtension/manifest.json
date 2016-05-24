@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "LatestNews Feed",
+  "description": "This extension will fetch news from local server",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_icon": "icon.png",
+   "default_popup": "popup.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}

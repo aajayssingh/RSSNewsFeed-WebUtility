@@ -1,12 +1,5 @@
-# RSSNewsFeed-WebUtility
-The application create a trending rss feeds news website and host it on local web server.
-
-Instruction :
-Please note that to use this utility one has to configure localhost and SQL database.
-I used Wamp server on windows.
-
-
-
+Problem Statement
+ Create a trending news website and host it on local web server.
 
 1 configuring local server :
 
